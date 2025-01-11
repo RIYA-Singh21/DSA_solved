@@ -18,6 +18,7 @@ public:
         return dp(n,nums,prev1,prev2);
         
     }
+    //leave first element out or leave last element out
     long int rob(vector<int>& nums) {
         vector<int>temp1,temp2;
         int n=nums.size();
