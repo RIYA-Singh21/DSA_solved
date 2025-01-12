@@ -22,23 +22,42 @@ class Solution {
         
     }
     //using tabulation
-    bool isSubsetSum(vector<int>& arr, int target) {
+    //bool isSubsetSum(vector<int>& arr, int target) {
+        // code here
+      //  int n=arr.size();
+        //vector<vector<int>>dp(n,vector<int>(target+1,-1));
+        //vector<vector<bool>>dp(n,vector<bool>(target+1,0));
+        //for(int i=0;i<n;i++) dp[i][0]=true;
+        //dp[0][arr[0]]=true;
+        //for(int ind=1;ind<n;ind++){
+          //  for(int t=1;t<=target;t++){
+            //    int nottake=dp[ind-1][t];
+              //  int take=false;
+                //if(t>=arr[ind])
+                //take=dp[ind-1][t-arr[ind]];
+                //dp[ind][t]= (take || nottake);
+            //}
+        //}
+        //return dp[n-1][target];
+       // return fsum(n-1,target,arr,dp);
+    //}
+       bool isSubsetSum(vector<int>& arr, int target) {
         // code here
         int n=arr.size();
-        //vector<vector<int>>dp(n,vector<int>(target+1,-1));
-        vector<vector<bool>>dp(n,vector<bool>(target+1,0));
-        for(int i=0;i<n;i++) dp[i][0]=true;
-        dp[0][arr[0]]=true;
+        vector<bool>prev(target+1,0),curr(target+1,0);
+        prev[0]=curr[0]=true;
+        prev[arr[0]]=true;
         for(int ind=1;ind<n;ind++){
             for(int t=1;t<=target;t++){
-                int nottake=dp[ind-1][t];
+                int nottake=prev[t];
                 int take=false;
                 if(t>=arr[ind])
-                take=dp[ind-1][t-arr[ind]];
-                dp[ind][t]= (take || nottake);
+                take=prev[t-arr[ind]];
+                curr[t]= (take || nottake);
             }
+            prev=curr;
         }
-        return dp[n-1][target];
+        return prev[target];
        // return fsum(n-1,target,arr,dp);
     }
 };
