@@ -33,4 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
