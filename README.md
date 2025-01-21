@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0801-is-graph-bipartite) |
 ## Graph
