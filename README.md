@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
+| [1829-maximum-units-on-a-truck](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1829-maximum-units-on-a-truck) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0494-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [1829-maximum-units-on-a-truck](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1829-maximum-units-on-a-truck) |
+## Sorting
+|  |
+| ------- |
+| [1829-maximum-units-on-a-truck](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1829-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
