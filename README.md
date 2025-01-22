@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1829-maximum-units-on-a-truck](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1829-maximum-units-on-a-truck) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
