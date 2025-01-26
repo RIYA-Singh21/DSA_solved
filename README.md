@@ -105,8 +105,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
