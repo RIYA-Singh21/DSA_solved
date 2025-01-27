@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0039-combination-sum) |
 | [0213-house-robber-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0494-target-sum) |
 ## Greedy
 |  |
