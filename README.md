@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0210-course-schedule-ii) |
@@ -129,13 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
