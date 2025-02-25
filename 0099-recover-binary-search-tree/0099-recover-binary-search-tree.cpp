@@ -22,7 +22,7 @@ public:
 
         inorder(root->left);
         
-        if( prev &&(root->val<prev->val) ){
+        if((root->val<prev->val) && prev){
             //for the first violation
             if(first==NULL){
                 first=prev;
