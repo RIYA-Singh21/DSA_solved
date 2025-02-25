@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0210-course-schedule-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0008-string-to-integer-atoi) |
+| [0127-word-ladder](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
