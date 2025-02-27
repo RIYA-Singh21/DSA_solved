@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0451-sort-characters-by-frequency) |
+| [1078-remove-outermost-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
