@@ -1,11 +1,11 @@
-class Solution {
-public:
-//TC:O(2N)
+class Solution {    
+    public:
+    //TC:O(N)
     int longestOnes(vector<int>& nums, int k) {
         int maxlen=0,left=0,right=0,zeroes=0;
         while(right<nums.size()){
             if(nums[right]==0) zeroes++;
-            while(zeroes>k){
+            if(zeroes>k){
                 if(nums[left]==0) zeroes--;
                 left++;
             }
