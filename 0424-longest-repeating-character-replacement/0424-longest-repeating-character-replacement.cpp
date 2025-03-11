@@ -12,7 +12,7 @@ public:
             if((r-l+1)-maxfreq>k){
                 hash[s[l]-'A']--;
                 l++;
-                maxfreq=0;
+                //maxfreq=0;
             }
             if((r-l+1)-maxfreq<=k){
                 maxlen=max(maxlen,r-l+1);
