@@ -6,7 +6,7 @@ public:
         while(r<nums.size()){
             sum+=nums[r];
             while(sum>goal){
-                sum-=(nums[l]%2);
+                sum-=nums[l];
                 l++;
             }
             cnt+=(r-l+1);
