@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1370-count-number-of-nice-subarrays) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0451-sort-characters-by-frequency) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Trie
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
