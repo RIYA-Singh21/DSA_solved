@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0090-subsets-ii) |
 | [0213-house-robber-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0322-coin-change) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
 ## Backtracking
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0242-valid-anagram) |
