@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0801-is-graph-bipartite](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
