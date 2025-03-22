@@ -1,17 +1,15 @@
 class Solution {
 public:
-//brute force , at max there can only be 2 elements in the ans 
+//better solution using hashing
     vector<int> majorityElement(vector<int>& nums) {
-        vector<int>ans;
+        unordered_map<int,int>mpp;
         for(int i=0;i<nums.size();i++){
-            if(ans.empty() || ans[0]!=nums[i]){
-                int cnt=0;
-                for(int j=0;j<nums.size();j++){
-                    if(nums[j]==nums[i]) cnt++;
-                }
-                if(cnt>nums.size()/3) ans.push_back(nums[i]);
-            }
-            if(ans.size()==2)break;
+            mpp[nums[i]]++;
+        }
+        vector<int>ans;
+        for(auto it:mpp){
+            if(it.second>nums.size()/3)
+                ans.push_back(it.first);
         }
         return ans;
     }
