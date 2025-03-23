@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0090-subsets-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
 ## Backtracking
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0050-powx-n) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2032-largest-odd-number-in-string) |
