@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0151-reverse-words-in-a-string) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0205-isomorphic-strings) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
