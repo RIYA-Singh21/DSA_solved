@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2032-largest-odd-number-in-string) |
 ## Math
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
