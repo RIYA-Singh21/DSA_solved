@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
