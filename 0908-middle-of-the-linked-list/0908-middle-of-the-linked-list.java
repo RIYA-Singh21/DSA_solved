@@ -20,7 +20,7 @@ class Solution {
         temp=head;
         int middlenode=(cnt/2)+1;
         while(temp!=null){
-            middlenode=middlenode-1;
+            middlenode--;
             if(middlenode==0){
                 break;
             }
