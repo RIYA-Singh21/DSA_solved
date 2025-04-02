@@ -11,7 +11,7 @@
 class Solution {
     //brute force , replace data
     public ListNode oddEvenList(ListNode head) {
-        if(head==null){
+        if(head==null || head.next==null){
             return head;
         }
         //getting odd ones first
