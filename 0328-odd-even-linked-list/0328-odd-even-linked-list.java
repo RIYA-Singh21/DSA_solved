@@ -22,6 +22,7 @@ class Solution {
             if(temp.next==null)break;
             temp=temp.next.next;
         }
+        //getting even ones
         temp=head.next;
          while(temp!=null){
             arr.add(temp.val);
