@@ -9,34 +9,22 @@
  * }
  */
 class Solution {
-    //brute force , replace data
+    //changing the links
     public ListNode oddEvenList(ListNode head) {
         if(head==null || head.next==null){
             return head;
         }
-        //getting odd ones first
-        ListNode temp=head;
-        ArrayList<Integer>arr=new ArrayList<>();
-        while(temp!=null){
-            arr.add(temp.val);
-            if(temp.next==null)break;
-            temp=temp.next.next;
+        ListNode odd_index=head;
+        ListNode even_index=head.next;
+        ListNode evenhead=head.next;
+        while(even_index!=null && even_index.next!=null){
+            odd_index.next=odd_index.next.next;
+            even_index.next=even_index.next.next;
+            //now the odd.next=odd.next.next
+            odd_index=odd_index.next;
+            even_index=even_index.next;
         }
-        //getting even ones
-        temp=head.next;
-         while(temp!=null){
-            arr.add(temp.val);
-            if(temp.next==null)break;
-            temp=temp.next.next;
-        }
-        temp=head;
-        int i=0;
-        while(temp!=null){
-            temp.val=arr.get(i);
-            temp=temp.next;
-            i++;
-        }
+        odd_index.next=evenhead;
         return head;
-
     }
 }
