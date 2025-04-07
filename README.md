@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
