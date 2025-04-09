@@ -1,18 +1,18 @@
 class Solution {
-    //better approach
+    //monotonic stack O(2n)
     public int[] nextGreaterElements(int[] nums) {
+        Stack<Integer>st=new Stack<>();
         int n=nums.length;
-        int[]nge=new int[n];
-        Arrays.fill(nge,-1);
-        for(int i=0;i<n;i++){
-            //check till i+n-1
-            for(int j=i+1;j<=i+n-1;j++){
-                int ind=j%n;
-                if(nums[i]<nums[ind]){
-                    nge[i]=nums[ind];
-                    break;
-                }
-            }
+        int[]nge=new int [n];
+        for(int i=2*n-1;i>=0;i--){
+            //index= i%n
+            while(!st.isEmpty() && st.peek()<=nums[i%n])
+                st.pop();
+            //update nge only when the index is <= n
+            if(i<n){
+                nge[i]=!st.isEmpty()?st.peek():-1;
+            } 
+            st.push(nums[i%n]);
         }
         return nge;
     }
