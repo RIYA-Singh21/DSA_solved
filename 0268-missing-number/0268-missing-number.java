@@ -1,15 +1,12 @@
 class Solution {
-    //better soln: hash array
+    //optimal: sum of natural no.
     public int missingNumber(int[] nums) {
-        //use a hash array 
         int n=nums.length;
-        int[] hash=new int[n+1];
-        for(int num :nums){
-            hash[num]++;
+        int s=(n*(n+1))/2;
+        int s1=0;
+        for(int i=0;i<n;i++){
+            s1+=nums[i];
         }
-        for(int i=0;i<=n;i++){
-            if(hash[i]==0)return i;
-        }
-        return -1;
+        return s-s1;
     }
 }
