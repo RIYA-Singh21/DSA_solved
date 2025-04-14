@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0229-majority-element-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0268-missing-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
