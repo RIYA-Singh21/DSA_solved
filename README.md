@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0189-rotate-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0242-valid-anagram) |
