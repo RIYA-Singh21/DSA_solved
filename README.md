@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0075-sort-colors) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0213-house-robber-ii) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0169-majority-element) |
 ## Simulation
 |  |
