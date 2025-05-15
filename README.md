@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0213-house-robber-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1370-count-number-of-nice-subarrays) |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
