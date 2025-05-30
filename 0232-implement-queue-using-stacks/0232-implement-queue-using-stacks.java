@@ -1,19 +1,19 @@
 class MyQueue {
-    Stack<Integer>stk1;//main stack storing elements
-    Stack<Integer>stk2;//temp stack
+    //using 2 stacks
+    Stack<Integer>stk1;
+    Stack<Integer>stk2;
+    
     public MyQueue() {
         stk1=new Stack<>();
         stk2=new Stack<>();
     }
     
     public void push(int x) {
-        while(stk1.size()>0){
+        while(stk1.size()>0)
             stk2.push(stk1.pop());
-        }
         stk1.push(x);
-        while(stk2.size()>0){
+        while(stk2.size()>0)
             stk1.push(stk2.pop());
-        }
     }
     
     public int pop() {
