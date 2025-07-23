@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2032-largest-odd-number-in-string) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0242-valid-anagram) |
