@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0202-happy-number) |
@@ -260,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0173-binary-search-tree-iterator) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0908-middle-of-the-linked-list) |
