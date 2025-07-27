@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0496-next-greater-element-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0890-lemonade-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1829-maximum-units-on-a-truck](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1829-maximum-units-on-a-truck) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1829-maximum-units-on-a-truck](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1829-maximum-units-on-a-truck) |
 ## Database
