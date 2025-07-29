@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0131-palindrome-partitioning) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0890-lemonade-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0890-lemonade-change) |
