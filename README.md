@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2032-largest-odd-number-in-string) |
@@ -478,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
