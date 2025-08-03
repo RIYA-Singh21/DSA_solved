@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1222-remove-covered-intervals](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1222-remove-covered-intervals) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1829-maximum-units-on-a-truck](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1829-maximum-units-on-a-truck) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1222-remove-covered-intervals](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1222-remove-covered-intervals) |
 | [1829-maximum-units-on-a-truck](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1829-maximum-units-on-a-truck) |
 ## Database
 |  |
