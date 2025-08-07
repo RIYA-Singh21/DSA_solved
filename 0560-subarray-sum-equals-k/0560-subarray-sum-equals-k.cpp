@@ -1,16 +1,15 @@
 class Solution {
 public:
-//optimal soln : O(n) (prefix sum approach)
+//brute force->no need for 3rd loop
     int subarraySum(vector<int>& nums, int k) {
-        unordered_map<int,int>mpp;
-        //initialize 0,1 in the map
-        mpp[0]=1;
-        int prefixsum=0,cnt=0;
+        int cnt=0;
         for(int i=0;i<nums.size();i++){
-            prefixsum+=nums[i];
-            int remove=prefixsum-k;
-            cnt+=mpp[remove];
-            mpp[prefixsum]+=1;
+            int sum=0;
+            for(int j=i;j<nums.size();j++){
+                    sum+=nums[j];
+            if(sum==k)
+                cnt++;
+            }
         }
         return cnt;
     }
