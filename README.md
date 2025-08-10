@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
+| [0731-my-calendar-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0287-find-the-duplicate-number) |
+| [0731-my-calendar-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0731-my-calendar-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
+| [0731-my-calendar-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0731-my-calendar-ii) |
 ## Iterator
 |  |
 | ------- |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
+| [0731-my-calendar-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1370-count-number-of-nice-subarrays) |
@@ -487,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0223-rectangle-area) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
