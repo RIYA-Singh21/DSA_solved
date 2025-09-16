@@ -1,23 +1,26 @@
 class Solution {
 public:
-//optimized : sliding window
+//sliding window TC: o(n) SC: O(26)
     int characterReplacement(string s, int k) {
-        int maxlen=0;
-        int r=0,l=0;
+        //int hash[26]={0}; 
+        unordered_map<char,int>mpp;
+        int l=0,r=0,maxlen=0;
         int maxfreq=0;
-        int hash[26]={0};
-        while(r<s.size()){
-            hash[s[r]-'A']++;
-            maxfreq=max(maxfreq,hash[s[r]-'A']);
+        int n=s.size();
+        while(r<n){
+            mpp[s[r]]++;
+            maxfreq=max(maxfreq,mpp[s[r]]);
+            //if the segment length is >k then decrease the window by 1
             if((r-l+1)-maxfreq>k){
-                hash[s[l]-'A']--;
+                mpp[s[l]]--;
+                //reset the maxfreq
+                maxfreq=0;
                 l++;
-                //maxfreq=0;
-            }
-            if((r-l+1)-maxfreq<=k){
+            }//if valid segment length <=k
+            else{
                 maxlen=max(maxlen,r-l+1);
-            }
-        r++;
+            } 
+            r++;
         }
         return maxlen;
     }
