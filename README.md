@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0890-lemonade-change) |
+| [0940-fruit-into-baskets](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0940-fruit-into-baskets](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-fruit-into-baskets](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
