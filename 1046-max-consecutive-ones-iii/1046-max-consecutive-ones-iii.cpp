@@ -1,19 +1,23 @@
-class Solution {    
-    public:
-    //TC:O(N)
+class Solution {
+public:
+//optimal 2 ptr sliding window 
     int longestOnes(vector<int>& nums, int k) {
-        int maxlen=0,left=0,right=0,zeroes=0;
-        while(right<nums.size()){
-            if(nums[right]==0) zeroes++;
-            if(zeroes>k){
-                if(nums[left]==0) zeroes--;
-                left++;
+        int l=0,r=0;
+        int maxlen=0;
+        int n=nums.size();
+        int zeroes=0;
+        while(r<n){
+            if(nums[r]==0){
+                zeroes++;
             }
-            if(zeroes<=k){
-                int len=right-left+1;
-                maxlen=max(len,maxlen);
+            while(zeroes>k){
+                if(nums[l]==0)
+                    zeroes--;
+                l++;
             }
-            right++;
+            if(zeroes<=k)
+                maxlen=max(maxlen,r-l+1);
+            r++;
         }
         return maxlen;
     }
