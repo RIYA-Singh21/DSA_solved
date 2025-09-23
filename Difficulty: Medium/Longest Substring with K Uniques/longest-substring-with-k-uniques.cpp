@@ -8,7 +8,7 @@ class Solution {
         int n=s.size();
         while(r<n){
             mpp[s[r]]++;
-            while(mpp.size()>k){
+            if(mpp.size()>k){
                 mpp[s[l]]--;
                 if(mpp[s[l]]==0)
                     mpp.erase(s[l]);
