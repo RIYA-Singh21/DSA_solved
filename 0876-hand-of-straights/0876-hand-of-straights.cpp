@@ -1,32 +1,35 @@
 class Solution {
 public:
-//using ordered map
-//TC: O(nlogn)+O(n*groupSize)
-//SC: O(hands.size())
+//using priority queue: min heap
     bool isNStraightHand(vector<int>& hand, int groupSize) {
-        //if the number of ele are not divisible by grpSize then ret false
         if(hand.size()%groupSize!=0)
             return false;
-        map<int,int>mp;
+        //declaring min heap
+        priority_queue<int,vector<int>,greater<int>>pq;
+        //store the freq in a map
+        unordered_map<int,int>mpp;
         for(int i=0;i<hand.size();i++){
-            mp[hand[i]]++; //O(nlogn)->ordered map
+            mpp[hand[i]]++;
         }
-        while(!mp.empty()){//O(n*groupSize)
-            //store the first ele of the group
-            int curr=mp.begin()->first;//first:ele second : freq
-            //no. of ele in the group = groupSize so loop through the groupSize
+        //store the elements in min heap
+        for(auto &i : mpp){
+            //push the element
+            pq.push(i.first);
+        }
+
+        while(!pq.empty()){
+            int ele=pq.top();
             for(int i=0;i<groupSize;i++){
-                //if ele is not present 
-                if(mp[curr+i]==0)
-                    return false;
-                mp[curr+i]--;
-                //if the element's freq ==0 remove it from the map
-                if(mp[curr+i]<1)
-                    mp.erase(curr+i);
+                    if(mpp[ele+i]==0) 
+                        return false;
+                
+                    mpp[ele+i]--;
+                    if(mpp[ele+i]==0){
+                        if(ele+i!=pq.top())return false; 
+                        pq.pop();
+                }
             }
-
         }
-        return true;
-   }
-
+     return true;   
+    }
 };
