@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0621-task-scheduler) |
 | [0731-my-calendar-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
+| [0876-hand-of-straights](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1829-maximum-units-on-a-truck](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1829-maximum-units-on-a-truck) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1222-remove-covered-intervals](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1222-remove-covered-intervals) |
 | [1829-maximum-units-on-a-truck](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1829-maximum-units-on-a-truck) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-hand-of-straights](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
