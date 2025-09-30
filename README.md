@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0205-isomorphic-strings) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0908-middle-of-the-linked-list) |
@@ -512,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
