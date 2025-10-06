@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0940-fruit-into-baskets) |
+| [0943-sum-of-subarray-minimums](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0518-coin-change-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0943-sum-of-subarray-minimums) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1078-remove-outermost-parentheses) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
