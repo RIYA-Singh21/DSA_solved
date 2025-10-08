@@ -11,20 +11,23 @@
  */
 class Solution {
 public:
-//using iterative inorder apporoach
-TreeNode*helper(TreeNode*root,int k,int &count){
-    if(root==NULL)return NULL;
-    TreeNode*left=helper(root->left,k,count);
-    if(left!=NULL)return left;
-    count++;
-    if(count==k)return root;
-    return helper(root->right,k,count);
-
-}
-
+    void helper(TreeNode *node, int k,int &cnt,int &kthsmallest){
+        //base case 
+        if(node==NULL)return;
+        //for smallest element check the left subtree 
+        helper(node->left,k,cnt,kthsmallest);
+        cnt++;
+        if(cnt==k){
+            kthsmallest=node->val;
+            return;
+        }
+        //if not found in the left subtree check the right subtree
+        helper(node->right,k,cnt,kthsmallest);
+    }
     int kthSmallest(TreeNode* root, int k) {
-    int count=0;
-      TreeNode* result=helper(root,k,count);
-      return result?result->val:0;
+        int kthsmallest=INT_MAX;
+        int cnt=0;
+        helper(root,k,cnt,kthsmallest);
+        return kthsmallest;
     }
 };
