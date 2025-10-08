@@ -22,10 +22,13 @@ class Solution {
         while(right->next!=NULL)
             right=right->next;
         
-        while(left!=right){
-            if(left->data +right->data==target)
+        while(left->data<right->data){
+            if(left->data +right->data==target){
                 ans.push_back({left->data,right->data});
-            if(left->data +right->data > target)
+                left=left->next;
+                right=right->prev;
+            }
+            else if(left->data +right->data > target)
             right=right->prev;
             else left=left->next;
         }
