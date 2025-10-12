@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0621-task-scheduler) |
 | [0731-my-calendar-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0940-fruit-into-baskets) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0735-asteroid-collision) |
 ## Linked List
 |  |
 | ------- |
