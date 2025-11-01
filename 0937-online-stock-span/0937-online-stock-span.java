@@ -1,22 +1,21 @@
 class StockSpanner {
-//brute force
-//using a dynamic list
-    ArrayList<Integer>sp;
+//optimal approach using stk to find the previous greater element
+ Stack<Pair<Integer,Integer>>st; 
+ int ind=-1;
     public StockSpanner() {
-        sp=new ArrayList<>();
+        st=new Stack<>();
+        ind=-1;
     }
     
     public int next(int price) {
-        sp.add(price);
-        int cnt=1;
-        //check from arr.size()-2 since the last element itself will be counted already
-        //since cnt=1 initially
-        for(int i=sp.size()-2;i>=0;i--){
-            if(sp.get(i)<=price)
-                cnt++;
-            else  break;
+        ind+=1;
+        //java has peek not top first=getKey sec=getValue
+        while(!st.isEmpty() && st.peek().getKey()<=price){
+            st.pop();
         }
-        return cnt;
+        int ans=ind-(st.isEmpty()?-1:st.peek().getValue());
+        st.push(new Pair<>(price,ind));
+        return ans;
     }
 }
 
