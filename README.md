@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0099-recover-binary-search-tree) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0733-flood-fill) |
 ## Backtracking
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0494-target-sum) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0151-reverse-words-in-a-string) |
