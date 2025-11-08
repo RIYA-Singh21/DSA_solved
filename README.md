@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0051-n-queens) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0055-jump-game) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RIYA-Singh21/Leetcode_solved/tree/master/0503-next-greater-element-ii) |
